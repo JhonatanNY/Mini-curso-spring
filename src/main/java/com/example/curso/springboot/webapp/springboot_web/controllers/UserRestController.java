@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.curso.springboot.webapp.springboot_web.model.User;
 import com.example.curso.springboot.webapp.springboot_web.model.dto.UserDto;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
